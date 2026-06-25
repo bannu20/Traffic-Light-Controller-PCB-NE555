@@ -7,7 +7,7 @@ A compact **Traffic Light Controller PCB** designed using **Dual NE555 Timer ICs
 ## 📸 Project Preview
 
 ### 🔹 Schematic Diagram
-![Schematic](<img src="SCHEMATIC.png")
+![Schematic](SCHEMATIC.png)
 
 
 

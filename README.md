@@ -1,6 +1,6 @@
 # 🚦 Traffic Light Controller PCB using Dual NE555 Timer ICs
 
-A compact **Traffic Light Controller PCB** designed using **Dual NE555 Timer ICs** in **EasyEDA**. This project simulates the operation of a traffic signal system with **Red, Yellow, and Green LEDs**, featuring adjustable timing through potentiometers.
+A compact **Traffic Light Controller PCB** designed using ** NE555 Timer ICs** in **EasyEDA**. This project simulates the operation of a traffic signal system with **Red, Yellow, and Green LEDs**, featuring adjustable timing through potentiometers.
 
 ---
 
@@ -12,15 +12,13 @@ A compact **Traffic Light Controller PCB** designed using **Dual NE555 Timer ICs
 
 
 ### 🔹 PCB Layout
-> *(Add your PCB layout image here)*
-
+![Layout](PCB_layout.png)
 ### 🔹 3D PCB - Top View
-> *(Add your 3D top view here)*
+![Topview](PCB_3D_TOP.png)
 
 ### 🔹 3D PCB - Bottom View
-> *(Add your 3D bottom view here)*
+![Bottomview](PCB_3D_BOTTOM.png)
 
----
 
 ## ✨ Features
 
@@ -49,7 +47,7 @@ A compact **Traffic Light Controller PCB** designed using **Dual NE555 Timer ICs
 
 ## 🧠 Working Principle
 
-The circuit uses **two NE555 Timer ICs** configured to generate timing pulses that control the illumination of the **Red**, **Yellow**, and **Green** LEDs. The potentiometers allow the timing intervals to be adjusted, demonstrating the basic operation of a traffic signal controller.
+The circuit uses ** NE555 Timer ICs** configured to generate timing pulses that control the illumination of the **Red**, **Yellow**, and **Green** LEDs. The potentiometers allow the timing intervals to be adjusted, demonstrating the basic operation of a traffic signal controller.
 
 ---
 
@@ -57,24 +55,8 @@ The circuit uses **two NE555 Timer ICs** configured to generate timing pulses th
 
 - EasyEDA
 - GitHub
-
 ---
 
-## 📂 Repository Contents
-
-```
-📦 Traffic-Light-Controller-PCB-NE555
-├── Schematic.json
-├── PCB.json
-├── Gerber.zip
-├── Traffic_Light_Schematic.png
-├── PCB_Layout.png
-├── PCB_3D_Top.png
-├── PCB_3D_Bottom.png
-└── README.md
-```
-
----
 
 ## 🎯 Skills Demonstrated
 
@@ -99,17 +81,6 @@ The circuit uses **two NE555 Timer ICs** configured to generate timing pulses th
 
 ---
 
-## 📸 Project Gallery
-
-| Schematic | PCB Layout |
-|-----------|------------|
-| Add Image | Add Image |
-
-| 3D Top View | 3D Bottom View |
-|--------------|----------------|
-| Add Image | Add Image |
-
----
 
 ## 🤝 Contributions
 
@@ -121,7 +92,7 @@ If you find this project useful, feel free to **Star ⭐ this repository**.
 
 ## 👨‍💻 Author
 
-**Bannu Azmeera**
+**Azmeera Bannu**
 
 Electronics & Communication Engineering Student
 
